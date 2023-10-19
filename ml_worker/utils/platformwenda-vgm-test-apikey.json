@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "platformwenda-1571901528109",
+  "private_key_id": "14d03d9d7aec489f9d79772bd6945fdf0988d84f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDEbc8ZHpRe6BBR\nhjEacXtPEoByt2G7p9bK2PRpiTNA0krzFADj9vkvz4T2FE9XFEE5yMwLdVuy/K0K\nwEYGR1+Lf9GiKEtgnCTGvgqnGy+J/MlG+zs97ryC/9IoTR5+15hspuoBvyQtLi0z\n55ZygpLnlt58MJBwk1BElQ2dfUo7zjXdL0FMoheOCAEMykEEWUAEnYITyooBBM0I\nxmkFEoiKmCpVuoACYsX/sACf/9JwdDKSYpBomSE7ifKcZHoW7QFgXdcPx89suREu\nRgK6T/XSjcvv60F+iIx+Bktk56YVaNLG0j9cdyJkEM7Iixiy1D79Cr9xIaEDb8CN\n7wFXBozXAgMBAAECggEAESNbjF+Epnss4VAJ/Lql/ZIprtidKFhOf0hKmuKjnCY8\n79Rw93LW7vr2KNpAyeI0hqwkUWOd6pHtLyDzexzDE1LFoZZObVFyS/zMxSO0FCAA\nF7dXxeGMhQl49pcz7/EzlVdC14Ar0d1TiFHOaJNH6fjZ1JAQKiJQQIuYsoL59Rmz\nmRxuU/D0p8NmX/t3GpraA+rSplbcdTS08KtLtCb9+3CNhcgIL7syk0vr18WnZ5JG\nnaBPugOEMI6ZZO+1fGpsS3hnaFSGcSilOcn9eL3UwtFiW3MyVyMpL48me+Kik0nD\nhJ9i8WuMhiQdWzxjJOQ8H0nkwU1pKX26HBg6DvalIQKBgQDubc2IF+1EY5AIMP44\nx0htq9zfg3ID98FnXIymiTTnfV+tijsH/xVRInxgxqcarq/BJBRkAQf0FndUHYLk\nwF7dKoLL+GD99/nqKMOLtj6Xlb/44kfMCww1hqkkq+OVP2kvHdLL6vHW9PdMHFAY\n3Xw+5Y/V94e2NGU5wU7xql+A/wKBgQDS56KTq9Q6MkGdMghsnJvaMSMx9TEW6Wx9\nhNERku+15ULUzK6RuNTUePtuQa9uXgg3xTV9KB2oh7ZkrCPTS6KdXX3Kf7iJB+eb\nrM8OZffe+DVfJhp4H1a3uozJGuysu0zJyaPef9NJvx8Vo9M0EYssQdUrDjuyzgQv\n3LpKRWEcKQKBgQCcihLrS2pIAGZMOn5uoMh42OGHDjIJUNz2E9l0bZkCc1oiAiOH\nuH4yasXmdAa6if5yfFG25sZmB2oJG+cYcQTXiFWfvU9Q70Jx7pmUXO7zbyo/KbGh\n0Y8OhX7/yKr/Dkbs3FPN9k8ZpnPG0L/101UDpoytGntLsVLUfIpsOEPD2QKBgDbt\nNJ4Y5hCx/fyehysiLkTI/02Hed1ptWOLL5fQGLXam2koVV6GMIeVaoXwfWvU+Xbs\n2V1bET5O+eWGH15sGFG7g4M1eC3X7S3R96rcS426Pswk9EfMgZ0f7IKDjJf/v6Pd\n69uKltBiAgp0vBCXcRN5obaw4kNS/Cwq5ClroDrhAoGBAJZUn2izQGw4z4VcmM6S\nqDxOXojBnJLDzngfxHkE99tBEcrAVPrTySJpbZdkpl4Mz59n2cSvmrtWNrag2fQG\ncMtMAIHt1gLRP4p8LfGu9BTFLvJ+4bFGcf3w5ysThZGYRZK/YcV4bh3qewTca2d3\nWuiWo9YeyN6vE3cXaWSWs0Fm\n-----END PRIVATE KEY-----\n",
+  "client_email": "vgm-test@platformwenda-1571901528109.iam.gserviceaccount.com",
+  "client_id": "100432332036029737311",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vgm-test%40platformwenda-1571901528109.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
